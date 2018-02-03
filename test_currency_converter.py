@@ -6,7 +6,8 @@ import datetime
 import pytest
 import sys
 import argparse
-#sys.path.append('../')
+#(Session info: chrome=61.0.3163.100)
+#(Driver info: chromedriver=2.25.426935)
 
 
 class Test_Currency_Converter_Tab():
